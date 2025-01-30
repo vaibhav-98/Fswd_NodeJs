@@ -1,0 +1,13 @@
+Node js an open-sourse and cross-platform JS runtime environment .
+Node js runs the chrome V8 js engine .
+Node js work on Blocking & non-bloacking I/O model . 
+
+
+# V8 engine
+1. Compilation 
+2. Garbage Collection 
+3. Execution
+4. Memory Managment ( Heap and Stack Memory)
+
+
+
