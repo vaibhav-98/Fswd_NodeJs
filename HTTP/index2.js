@@ -7,6 +7,7 @@ const HOSTNAME = "localhost"
     //Home Page
     if(req.url == "/") {
         res.statusCode = 200;
+        res.setHeader("Content-type", "text/plain")
         res.end("Welcome to node js Server Created by Amiy")
     }
 
@@ -15,6 +16,10 @@ const HOSTNAME = "localhost"
         res.statusCode = 200;
         res.end("<h1>Welcome to node js Server Created by Prakash<h1>")
     }
+
+    // Contact
+
+    
  })
 
  server.listen(PORT, () => {
