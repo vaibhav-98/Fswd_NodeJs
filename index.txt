@@ -11,3 +11,15 @@ Node js work on Blocking & non-bloacking I/O model .
 
 
 
+## HTTP Satus Code 
+
+200 - Continue or OK 
+201 - cewated 
+301 - Moved Parmanently 
+400 - Bad Requist 
+401 - Unauthorize 
+403 - forbidden
+404 - Not Found 
+410 - Time out Error 
+500 - Internal server error 
+

@@ -8,7 +8,7 @@ const HOSTNAME = "localhost"
     if(req.url == "/") {
         res.statusCode = 200;
         res.setHeader("Content-type", "text/plain")
-        res.end("Welcome to node js Server Created by Amiy")
+        res.end("Welcome to node js Server Created by Amit")
     }
 
     //About Page
